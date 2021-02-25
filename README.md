@@ -7,7 +7,7 @@ Background - pulled directely from the homework assignment:
 
 This project requires 6 csv files, postgresql, and a fundamental knowledge of database schema.
 
-## Part 1: Understand and oad the data in EmployeeSQL
+## Part 1: Understand and load the data in EmployeeSQL
 There are 6 csv files of data to load.  Table schema is included here:
 ### ENTER PICTURE HERE
 ### Once the schema is understood (loaded?)
