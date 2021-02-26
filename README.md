@@ -9,7 +9,7 @@ This project requires 6 csv files, postgresql, and a fundamental knowledge of da
 
 ## Part 1: Understand and load the data in EmployeeSQL
 There are 6 csv files of data to load.  Table schema is included here:
-![image](./Images/DatabaseDiagram.jpeg)
+![image](../Images/DatabaseDiagram.jpeg)
 
 ### Once the schema is understood (loaded?)
 data from csv files must be loaded in the following order:
