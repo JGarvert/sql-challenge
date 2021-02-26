@@ -34,6 +34,3 @@ The queries have been sent up to answer the following questions.  See the querie
 
 ## Part 3: Bonus
 Nope. As enticing as this is, I've got other things to do, namley the tasks that I am employeed for.   Otherwise, this would be interesting to tackle at another time.
-
-Copyright
-Trilogy Education Services © 2019. All Rights Reserved.
