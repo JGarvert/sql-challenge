@@ -67,3 +67,15 @@ SELECT last_name, COUNT (last_name) AS "Last_Name_Frequency"
 FROM employees
 GROUP BY last_name
 ORDER BY "Last_Name_Frequency" DESC;
+
+-- #9. How was I recorded in this company?
+-- Select "my" employee number and review personal data
+SELECT ee.emp_no, ee.last_name, ee.first_name, dpt.dept_name, sal.salary
+FROM employees AS ee
+JOIN dept_emp AS de ON
+ee.emp_no = de.emp_no
+	JOIN departments as dpt ON
+	dpt.dept_no = de.dept_no
+		JOIN salaries as sal ON
+		sal.emp_no = ee.emp_no
+	WHERE ee.emp_no = 499942;
