@@ -15,6 +15,7 @@ If the image is not showing, it is also here:
 https://github.com/JGarvert/sql-challenge/issues/1
 
 Note to graders and anyone else reading this: the schema image does not match the schema script.  They were completed in independently.  However, they should be close.
+
 SQL schema is in sql-challenge\SRC\Data_Schema.sql
 Once the schema has been set up, data from csv files must be loaded in the following order:
 group # 1 (primary keys only): titles, departents, salaries
