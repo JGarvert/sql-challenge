@@ -9,7 +9,7 @@ This project requires 6 csv files, postgresql, and a fundamental knowledge of da
 
 ## Part 1: Understand and load the data in EmployeeSQL
 There are 6 csv files of data to load.  An image of the schema is here:
-![homework_schema](Images/DatabaseDiagram.jpeg)
+https://github.com/JGarvert/sql-challenge/issues/1
 
 SQL schema is in sql-challenge\SRC\Data_Schema.sql
 Once the schema has been set up, data from csv files must be loaded in the following order:
